@@ -46,8 +46,8 @@ I am a MERN stack web developer. Completed my graduation in BCA in 2020. <br>My 
 ![](https://github-readme-stats.vercel.app/api?username=Chackojithinps&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chackojithinps&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chackojithinps&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
-<h3>🤞What stats are saying</h3>
-<table>
+<!-- <h3>🤞What stats are saying</h3> -->
+<!-- <table>
 <tr>
   <td>
     <p align='center'>
@@ -68,7 +68,7 @@ I am a MERN stack web developer. Completed my graduation in BCA in 2020. <br>My 
     </p>
   </td>
  </tr>
-</table>
+</table> -->
 
 <h3>🔗Tags that I can relate</h3>
 
