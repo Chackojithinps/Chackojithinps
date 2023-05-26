@@ -51,7 +51,7 @@ I am a MERN stack web developer. Completed my graduation in BCA in 2020. <br>My 
 <tr>
   <td>
     <p align='center'>
-      <img alt="jithin's streak" src='https://github-readme-streak-stats.herokuapp.com/?user=Chackojithinps
+      <img alt="jithin's streak" src='https://github-readme-stats.vercel.app/api?username=Chackojithinps
 &hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
     </p>
     <p align='center'>
