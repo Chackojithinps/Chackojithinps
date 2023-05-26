@@ -13,7 +13,7 @@ I am a MERN stack web developer. Completed my graduation in BCA in 2020. <br>My 
 <!-- ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jithin_chacko__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chacko Jithin Ps) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@JithinC44177675) -->
 
-<a href="">
+<a href="https://twitter.com/JithinC44177675">
     <picture>
       <source  width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478611-dcb5caf8-8cdd-4f28-b394-8d05a70747b9.png">
       <img  width="40" alt="twitter" src="https://user-images.githubusercontent.com/64640025/209478615-d70d804b-bd10-42cc-944f-77c472361bfc.png">
@@ -26,7 +26,7 @@ I am a MERN stack web developer. Completed my graduation in BCA in 2020. <br>My 
     </picture>
 
   </a>
-  <a href="mailto:shamilkotta7@gmail.com">
+  <a href="chackojithinps@gmail.com">
     <picture>
       <source width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478606-af257735-4813-47c1-ac02-d6aedfa4f779.png">
       <img alt="twitter" width="40" src="https://user-images.githubusercontent.com/64640025/209478608-011b55f7-40cd-43a5-8053-ae193a1badf3.png">
