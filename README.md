@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chacko jithin ps</h1>
+<h1 align="center">Hi 👋, I'm jithin </h1>
 <h3 align="center">I am a MERN stack web developer. Completed my graduation in BCA in 2020 My interest lies in problem solving and software development.I am a constant learner and I like interacting with new people.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chackojithinps&label=Profile%20views&color=0e75b6&style=flat" alt="chackojithinps" /> </p>
