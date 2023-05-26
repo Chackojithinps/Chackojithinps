@@ -26,7 +26,7 @@ I am a MERN stack web developer. Completed my graduation in BCA in 2020. <br>My 
     </picture>
 
   </a>
-  <a href="chackojithinps@gmail.com">
+  <a href="chackojithinps1999@gmail.com">
     <picture>
       <source width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478606-af257735-4813-47c1-ac02-d6aedfa4f779.png">
       <img alt="twitter" width="40" src="https://user-images.githubusercontent.com/64640025/209478608-011b55f7-40cd-43a5-8053-ae193a1badf3.png">
@@ -37,6 +37,11 @@ I am a MERN stack web developer. Completed my graduation in BCA in 2020. <br>My 
 
 ## ✌️I'm good in
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+<h3>✌️I'm good in</h3>
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ## 🤞What stats are saying
 ![](https://github-readme-stats.vercel.app/api?username=Chackojithinps&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chackojithinps&theme=radical&hide_border=true)<br/>
