@@ -72,7 +72,7 @@ I am a MERN stack web developer. Completed my graduation in BCA in 2020. <br>My 
 
 <h3>🔗Tags that I can relate</h3>
 
-`javascript` `java` `html` `css` `bootstrap` `react` `redux` `nodejs` `express` `handlebars` `github actions` `npm` `yarn` `razorpay` `prettier` `eslint` `mongodb` `aws ec2` `nginx` `figma` `photoshop`
+`javascript` `java` `html` `css` `bootstrap` `react` `redux` `nodejs` `express` `handlebars` `github actions` `npm` `yarn` `razorpay` `prettier` `eslint` `mongodb` `aws ec2` `nginx` `figma` `photoshop` `Data structures and algorithms`
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
