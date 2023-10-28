@@ -3,7 +3,7 @@
  My interest lies in problem solving and software development.I am a constant learner and I like interacting with new people.</h3> -->
 
 
-I am a MERN stack web developer. Completed my graduation in BCA in 2020. <br>My interest lies in problem solving and software development.I am a constant learner and I like interacting with new people.<br><br>🌱  I’m currently learning Data structures and algorithms<br>💬 Ask me about anything😂<br>📫 Reach me chackojithinps1999@gmail.com
+I am a MERN stack web developer. Completed my graduation in BCA in 2020. <br>My interest lies in problem solving and software development.I am a constant learner and I like interacting with new people.<br><br>🌱  I’m currently learning Data structures and algorithms<br>💬 Ask me about anything😂<br>📫 Reach me chacko.jithin@outlook.com
 
 
 
