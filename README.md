@@ -26,7 +26,7 @@ I am a MERN stack web developer. Completed my graduation in BCA in 2020. <br>My 
     </picture>
 
   </a>
-  <a href="chacko.jithin@outlook.com">
+  <a href="chackojithin1999@gmail.com">
     <picture>
       <source width="40" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/64640025/209478606-af257735-4813-47c1-ac02-d6aedfa4f779.png">
       <img alt="twitter" width="40" src="https://user-images.githubusercontent.com/64640025/209478608-011b55f7-40cd-43a5-8053-ae193a1badf3.png">
